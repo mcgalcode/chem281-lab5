@@ -1,0 +1,1 @@
+docker build -t chem281/lab5 .
